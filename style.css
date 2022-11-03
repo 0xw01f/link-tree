@@ -172,6 +172,8 @@ body {
     font-size: 4em;
     letter-spacing: 15px;
   }
+
+
   
 }
 
@@ -202,6 +204,10 @@ body {
   .err-title {
     font-size: 4em;
     letter-spacing: 15px;
+  }
+
+  .err-junk {
+    letter-spacing: 5px !important;
   }
 }
 
@@ -234,6 +240,8 @@ body {
     letter-spacing: 15px;
   }
 }
+
+  
   
 @media screen and (max-width: 350px) {
   .content {
@@ -263,4 +271,6 @@ body {
     font-size: 2em;
     letter-spacing: 15px;
   }
+
+ 
 }
