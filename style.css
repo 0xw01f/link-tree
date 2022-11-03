@@ -123,7 +123,7 @@ body {
 	position: relative;
 	height: 100vh;
 	font-family: "Raleway", sans-serif;
-	overflow-y: hidden;
+  overflow:hidden;
 }
 
 .content {
