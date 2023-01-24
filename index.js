@@ -14,5 +14,5 @@ $(window).on('load',function(){
 	setTimeout(function(){ // allowing 3 secs to fade out loader
 	$('.page-loader').fadeOut('slow');
     jQuery('.content').css('opacity', '1');
-	},2200);
+	},2000);
 });
