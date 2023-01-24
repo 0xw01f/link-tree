@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('#titleType').typewrite({
-        speed: 10,
+        speed: 5,
         cursor: '.',
         actions: [
             {type: 'Loading..'},
