@@ -114,6 +114,15 @@ a.err-link:hover{
     text-decoration: line-through;
 }
 
+.inner-title {
+	text-transform: uppercase;
+	font-size: 1em;
+	font-family: 'Rajdhani';
+	font-weight: 300;
+	color: #CECECE;
+	letter-spacing: 10px;
+}
+
 
 
 html,
